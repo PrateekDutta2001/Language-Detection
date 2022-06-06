@@ -6,3 +6,9 @@ It contains 22 languages and out of that it can detect which language does the u
 
 **Programming Language**
 Python
+
+**Libraries Used**
+Numpy, Pandas, Scikit Learn (SKLEARN)
+
+**Module**
+Natural Language Processing (NLP)
