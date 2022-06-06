@@ -4,3 +4,5 @@ It is an NLP system. The sensitivity score is quite high and the accuracy score 
 
 It contains 22 languages and out of that it can detect which language does the user inserts. 
 
+**Programming Language**
+Python
